@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ali-surani/)**, **ali.surani07@gmail.com**,
 
-- ⚡ Ranked **#6** in Pakistan at **[CodeForces](https://codeforces.com/profile/ali.surani7)**
+- ⚡ Ranked **#3** in Pakistan at **[CodeForces](https://codeforces.com/profile/ali.surani7)**
 
 ## 🚀 Languages and Tools:
 
